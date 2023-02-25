@@ -1,0 +1,50 @@
+$date
+	Sat Feb 25 11:14:22 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module four_b_tb $end
+$var wire 1 ! q $end
+$var reg 1 " d $end
+$var reg 1 # enable $end
+$var reg 1 $ reset $end
+$scope module uut $end
+$var wire 1 " d $end
+$var wire 1 # enable $end
+$var wire 1 $ reset $end
+$var reg 1 ! q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+x#
+x"
+x!
+$end
+#5
+0!
+1$
+#10
+x!
+0$
+#15
+1#
+#20
+0!
+0"
+#25
+1!
+1"
+#30
+0!
+0"
+#35
+1!
+1"
+#135
