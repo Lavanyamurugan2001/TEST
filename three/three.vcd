@@ -1,0 +1,31 @@
+$date
+	Sat Feb 25 10:36:59 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module three_a_tb $end
+$var reg 1 ! a $end
+$var reg 1 " c $end
+$var reg 1 # sel $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0#
+x"
+x!
+$end
+#5
+1#
+#10
+1!
+#15
+0"
+#20
+0!
+#25
+1"
