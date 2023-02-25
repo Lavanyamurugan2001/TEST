@@ -1,0 +1,41 @@
+$date
+	Sat Feb 25 10:28:29 2023
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module two_c_tb $end
+$var wire 1 ! y $end
+$var reg 1 " d $end
+$var reg 1 # enable $end
+$scope module uut $end
+$var wire 1 " d $end
+$var wire 1 # enable $end
+$var wire 1 ! y $end
+$scope module uut $end
+$var wire 1 " d $end
+$var wire 1 # enable $end
+$var reg 1 ! y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0#
+x"
+0!
+$end
+#5
+x!
+1#
+#10
+0!
+0"
+#15
+1!
+1"
+#115
